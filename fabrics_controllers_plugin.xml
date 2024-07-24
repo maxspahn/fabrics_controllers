@@ -1,0 +1,7 @@
+<library path="lib/libfabrics_controllers">
+  <class name="fabrics_controllers/FabricsController" type="fabrics_controllers::FabricsController" base_class_type="controller_interface::ControllerBase">
+      <description>
+          A controller based on geometric fabrics.
+      </description>
+  </class>
+</library>
